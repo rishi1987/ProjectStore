@@ -18,12 +18,17 @@ namespace BokkProject.Controllers
         {
             _bookRepository = new BookRepository();
         }
-       
-        public List<BookModel> getAllBooks()
-        {
-           return _bookRepository.GetAllBooks();
-        }
 
+        //public List<BookModel> getAllBooks()
+        //{
+        //   return _bookRepository.GetAllBooks();
+        //}
+
+
+        public ViewResult GetAllBooks()
+        {
+            return View();
+        }
         public BookModel getSingleBook(int id)
         {
             return _bookRepository.GetSingleBook(id);
