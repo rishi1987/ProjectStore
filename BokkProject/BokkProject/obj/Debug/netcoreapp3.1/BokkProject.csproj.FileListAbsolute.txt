@@ -6,7 +6,6 @@ D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\bin\Debug\netcoreap
 D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\bin\Debug\netcoreapp3.1\BokkProject.runtimeconfig.dev.json
 D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\bin\Debug\netcoreapp3.1\BokkProject.dll
 D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\bin\Debug\netcoreapp3.1\BokkProject.pdb
-D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\obj\Debug\netcoreapp3.1\BokkProject.csprojAssemblyReference.cache
 D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\obj\Debug\netcoreapp3.1\BokkProject.AssemblyInfoInputs.cache
 D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\obj\Debug\netcoreapp3.1\BokkProject.AssemblyInfo.cs
 D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\obj\Debug\netcoreapp3.1\BokkProject.csproj.CoreCompileInputs.cache
