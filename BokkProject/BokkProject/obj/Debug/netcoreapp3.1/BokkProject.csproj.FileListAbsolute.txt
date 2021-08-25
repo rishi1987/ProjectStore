@@ -102,3 +102,7 @@ D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\obj\Debug\netcoreap
 D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetAllBooks.cshtml.g.cs
 D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\obj\Debug\netcoreapp3.1\BokkProject.RazorTargetAssemblyInfo.cs
 D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\obj\Debug\netcoreapp3.1\BokkProject.Views.pdb
+D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ContactUs.cshtml.g.cs
+D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\obj\Debug\netcoreapp3.1\Razor\CommonViews\common.cshtml.g.cs
+D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SelfProject\NETCore\GitRepository\BokkProject\BokkProject\bin\Debug\netcoreapp3.1\libman.json

@@ -1,0 +1,51 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/jquery/jquery.js"></script>
+</head>
+<body>
+    <img class="pics" src="~/images/IMG20191007150949.jpg" />
+
+    <img class="pics" src="~/StaticFiles/IMG20191019170551.jpg" />
+
+    @DateTime.Now.ToString("dd/MM/yyyy")
+
+    <h1>rishipandit50@gmail.com</h1>
+
+    <h1>@@rishipandit</h1>
+
+    @{
+
+        int a = 10;
+        int b = 20;
+        int c = a + b;
+
+        @*for (int i = 1; i <= 10; i++)
+            {
+                <h1>@i</h1>;
+            }*@
+    }
+
+    <h1>Sum is:- @c</h1>
+    <button value="Click Me" class="btn btn-danger">Click Me</button>
+
+</body>
+
+
+</html>
+<script>
+
+    $(document).ready(function () {
+       // alert("Page is loaded");
+    });
+</script>

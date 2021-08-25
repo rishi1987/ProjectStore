@@ -8,9 +8,15 @@ namespace BokkProject.Controllers
 {
     public class HomeController : Controller
     {
-        public string Index()
+        public ViewResult Index()
         {
-            return "Demo";
+            return View();
+            //return View("../../CommonViews/common");
+        }
+
+        public ViewResult ContactUs()
+        {
+            return View();
         }
     }
 }
